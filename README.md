@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/naoto24kawa-gem-package-readme-mcp-server-badge.png)](https://mseep.ai/app/naoto24kawa-gem-package-readme-mcp-server)
+
 # Gem Package README MCP Server
 
 [![license](https://img.shields.io/npm/l/gem-package-readme-mcp-server)](https://github.com/elchika-inc/gem-package-readme-mcp-server/blob/main/LICENSE)
